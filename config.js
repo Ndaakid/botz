@@ -32,42 +32,42 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.owner = [['6285640575421', 'Ndaa', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.nomorbot = '6285640575421'
+global.nomorown = '6285640575421'
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'Shirokami Ryzen'
-global.namebot = 'Nao-MD ESM'
-global.wm = '© Nao-MD By Shirokami Ryzen'
+global.author = 'Ndaa'
+global.namebot = 'LenzyMd ESM'
+global.wm = '© LenzyBotz By Ndaa'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/ShirokamiRyzen\n\nNao-MD ESM\n+${nomorbot}`
-global.stickauth = `© Nao-MD By Shirokami Ryzen`
+global.stickauth = `© LenzyBotz By Ndaa`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 //*============= SOSMED =============*/
-global.sig = 'https://www.instagram.com/ryzen_vermillion'
-global.sgh = 'https://github.com/ShirokamiRyzen'
-global.sgc = 'https://whatsapp.com/channel/0029VaGoqK589indDi4Am40J'
-global.sgw = 'https://ryzendesu.vip'
+global.sig = 'https://www.instagram.com/ndaalpz_'
+global.sgh = '-'
+global.sgc = '-'
+global.sgw = '-'
 global.sdc = '-'
-global.sfb = 'https://www.facebook.com/Nao.Tomori.UwU'
-global.snh = 'https://www.instagram.com/ryzen_vermillion'
+global.sfb = '-'
+global.snh = '-'
 
 /*============= DONASI =============*/
-global.pdana = '085174269046'
+global.pdana = '085640575421'
 global.povo = '-'
-global.pgopay = '085174269046'
+global.pgopay = '-'
 global.plinkaja = '-'
-global.ppulsa = '085174269046'
-global.ppulsa2 = '085174269046'
-global.psaweria = 'https://saweria.co/shirokamiryzen'
+global.ppulsa = '085640575421'
+global.ppulsa2 = '085640575421'
+global.psaweria = '-'
 global.bank1 = '109901209640'
 global.bank2 = '-'
 
@@ -96,9 +96,9 @@ global.wait = 'Please Wait...'
 global.eror = 'Error!'
 
 /*============= WEB API KEY =============*/
-global.openai = 'YOUR_APIKEY_HERE'  //api key bisa didapatkan dari https://openai.com/api/
-global.org = 'YOUR_APIKEY_HERE'  //openAI Organization name
-global.xzn = 'YOUR_APIKEY_HERE'
+global.openai = '-'  //api key bisa didapatkan dari https://openai.com/api/
+global.org = '-'  //openAI Organization name
+global.xzn = '-'
 
 global.APIs = {
   // name: 'https://website'
@@ -108,7 +108,7 @@ global.APIs = {
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
 
-  'https://skizo.tech/' : '',
+  'https://skizo.tech/' : '-',
 }
 
 /*============= OTHER =============*/
